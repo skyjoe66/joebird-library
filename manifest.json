@@ -1,0 +1,38 @@
+{
+  "birds/ardea-alba.png": {
+    "source": "generated"
+  },
+  "birds/ardea-herodias.png": {
+    "source": "generated"
+  },
+  "birds/baeolophus-bicolor.png": {
+    "source": "generated"
+  },
+  "birds/cardinalis-cardinalis.png": {
+    "source": "generated"
+  },
+  "birds/cyanocitta-cristata.png": {
+    "source": "generated"
+  },
+  "birds/haemorhous-mexicanus.png": {
+    "source": "generated"
+  },
+  "birds/mimus-polyglottos.png": {
+    "source": "generated"
+  },
+  "birds/passerina-ciris.png": {
+    "source": "generated"
+  },
+  "birds/poecile-carolinensis.png": {
+    "source": "generated"
+  },
+  "birds/sialia-sialis.png": {
+    "source": "generated"
+  },
+  "birds/zenaida-macroura-2.png": {
+    "source": "generated"
+  },
+  "birds/zenaida-macroura.png": {
+    "source": "generated"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "birds": {
+    "ardea-alba": [
+      {
+        "file": "birds/ardea-alba.png",
+        "sha256": "f0723d318ab9e7234349a48babd8aa101efa9ee2e68ddd750f816b5c817583f4",
+        "source": "generated"
+      }
+    ],
+    "ardea-herodias": [
+      {
+        "file": "birds/ardea-herodias.png",
+        "sha256": "4412e42178a42619eb653c6db609e8f1cb2b07ebf90ace1abcd363b31794d308",
+        "source": "generated"
+      }
+    ],
+    "baeolophus-bicolor": [
+      {
+        "file": "birds/baeolophus-bicolor.png",
+        "sha256": "cd9c08c24ebf096170edeac5db6e8f494c51422037d7d9d8dc642315ecbf3d2a",
+        "source": "generated"
+      }
+    ],
+    "cardinalis-cardinalis": [
+      {
+        "file": "birds/cardinalis-cardinalis.png",
+        "sha256": "5de7662fe328d752ed461e05dbd415f6a3bac8a14995783f42f6e18cc8053f04",
+        "source": "generated"
+      }
+    ],
+    "cyanocitta-cristata": [
+      {
+        "file": "birds/cyanocitta-cristata.png",
+        "sha256": "6314c705c3487264cdea1df666ece132b1a04ad10740f6aaa77aae5cdd4d1172",
+        "source": "generated"
+      }
+    ],
+    "haemorhous-mexicanus": [
+      {
+        "file": "birds/haemorhous-mexicanus.png",
+        "sha256": "dcb69062ec4a4a24d13dcf9695d564eb586c227794a21e3b0b4a8a103d00218d",
+        "source": "generated"
+      }
+    ],
+    "mimus-polyglottos": [
+      {
+        "file": "birds/mimus-polyglottos.png",
+        "sha256": "5cd7c391be8b7a898309f16ff6d548ee893b1258bb6f123465f2aaad7ecb1196",
+        "source": "generated"
+      }
+    ],
+    "passerina-ciris": [
+      {
+        "file": "birds/passerina-ciris.png",
+        "sha256": "be29c4508ef4439269b1b900e74e198e21242808920002a34902829d24b406c1",
+        "source": "generated"
+      }
+    ],
+    "poecile-carolinensis": [
+      {
+        "file": "birds/poecile-carolinensis.png",
+        "sha256": "2226fc3bc24a7d71173b57994b3ba3e26bb19a1bc19be901aec2fc853cf83b80",
+        "source": "generated"
+      }
+    ],
+    "sialia-sialis": [
+      {
+        "file": "birds/sialia-sialis.png",
+        "sha256": "ee2a0dcbf71fe17e40ab7ca31bb818de328da6ecf3c24280579034e82916d9ec",
+        "source": "generated"
+      }
+    ],
+    "zenaida-macroura": [
+      {
+        "file": "birds/zenaida-macroura-2.png",
+        "sha256": "13bf73421b3cd0af93f3951568579a5b8ee590f2f2c35bfdb5f349dfbfa79ae4",
+        "source": "generated"
+      },
+      {
+        "file": "birds/zenaida-macroura.png",
+        "sha256": "5f2360a96e2d4d8c7118e2df631acca70d208b8355d979a36569b686a5530eab",
+        "source": "generated"
+      }
+    ]
+  },
+  "license": "CC0-1.0",
+  "version": 1
+}
