@@ -42,6 +42,13 @@
         "source": "generated"
       }
     ],
+    "haliaeetus-leucocephalus": [
+      {
+        "file": "birds/haliaeetus-leucocephalus.png",
+        "sha256": "018a3b543f00e76037880e8ed3cbb7fc4c7ed32d86426e6c81999427527f14b6",
+        "source": "generated"
+      }
+    ],
     "mimus-polyglottos": [
       {
         "file": "birds/mimus-polyglottos.png",
