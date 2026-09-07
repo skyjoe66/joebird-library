@@ -53,16 +53,27 @@ merged. A plate the library already has offers no button.
 
 ### By hand
 
-No `gh` needed - only a GitHub account.
+No `gh`, no terminal, no clone - a browser and a GitHub account.
 
-1. Fork this repository and clone your fork.
-2. Copy the file from your frame's `assets/artwork/library/birds/` into
-   `birds/`, keeping its name. If the species already has a file, yours becomes
-   the next variant: `<key>-2.png`, `<key>-3.png`.
-3. Copy its line from your frame's `manifest.json` into this one.
-4. Rebuild the index: `uv run python -m birdart.index .` from a JoeBird
-   checkout (or leave it - the owner can rebuild it on merge).
-5. Commit, push, and open a pull request against `main`.
+1. **Get the picture off your frame.** Open the gallery,
+   `http://<pi>/birdart/gallery`, right-click the plate and *Save image*. It
+   saves under its proper name, e.g. `agelaius-phoeniceus.png`. Keep that name.
+2. **Fork this repository** - the *Fork* button at the top of this page - and
+   in your fork open the `birds` folder. Choose *Add file -> Upload files*,
+   drop the PNG in, and commit. (If the species is already there, name yours
+   `<key>-2.png`, `-3.png` - the next free number.)
+3. **Add its line to `manifest.json`** in your fork - open the file, press the
+   pencil, and add one entry with your file's name:
+
+   ```json
+   "birds/agelaius-phoeniceus.png": { "source": "generated" },
+   ```
+
+4. **Open a pull request** from your fork to this repository's `main` - GitHub
+   offers the button as soon as your fork is ahead. Say which bird it is.
+
+Leave `index.json` alone; the owner rebuilds it on merge. If you would rather
+work from a clone, the same three files are all there is to it.
 
 ### What happens next
 
