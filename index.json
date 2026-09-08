@@ -49,6 +49,13 @@
         "source": "generated"
       }
     ],
+    "dryocopus-pileatus": [
+      {
+        "file": "birds/dryocopus-pileatus.png",
+        "sha256": "f05a6a56f39a0062c6b760d5bf408cd801b1cfa382b391d12b285d6905164e9d",
+        "source": "generated"
+      }
+    ],
     "haemorhous-mexicanus": [
       {
         "file": "birds/haemorhous-mexicanus.png",
