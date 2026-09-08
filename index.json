@@ -63,6 +63,13 @@
         "source": "generated"
       }
     ],
+    "melanerpes-carolinus": [
+      {
+        "file": "birds/melanerpes-carolinus.png",
+        "sha256": "3d0d4b03bab7266d47835a3edf9716efd634e01fb191e27568a57db71f43f4b5",
+        "source": "generated"
+      }
+    ],
     "mimus-polyglottos": [
       {
         "file": "birds/mimus-polyglottos.png",
