@@ -91,6 +91,13 @@
         "source": "generated"
       }
     ],
+    "thryothorus-ludovicianus": [
+      {
+        "file": "birds/thryothorus-ludovicianus.png",
+        "sha256": "705d6037cd77038d717f02095a8432dcaa2da8ff5f535de75f2da2008c34634d",
+        "source": "generated"
+      }
+    ],
     "zenaida-macroura": [
       {
         "file": "birds/zenaida-macroura-2.png",
