@@ -7,6 +7,13 @@
         "source": "generated"
       }
     ],
+    "anhinga-anhinga": [
+      {
+        "file": "birds/anhinga-anhinga.png",
+        "sha256": "328293345d1fece6d8c0450685c495993550a6c462ff42dbb61e08e6606c7f36",
+        "source": "generated"
+      }
+    ],
     "ardea-alba": [
       {
         "file": "birds/ardea-alba.png",

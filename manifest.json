@@ -2,6 +2,11 @@
   "birds/agelaius-phoeniceus.png": {
     "source": "generated"
   },
+  "birds/anhinga-anhinga.png": {
+    "from": "a JoeBird frame",
+    "model": "gpt-image-2",
+    "source": "generated"
+  },
   "birds/ardea-alba.png": {
     "source": "generated"
   },
