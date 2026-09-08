@@ -35,6 +35,13 @@
         "source": "generated"
       }
     ],
+    "buteo-lineatus": [
+      {
+        "file": "birds/buteo-lineatus.png",
+        "sha256": "885582e5baff3b9bb4033d60b4e4402167dce51310edc8822a21c6ebaa559a4b",
+        "source": "generated"
+      }
+    ],
     "cardinalis-cardinalis": [
       {
         "file": "birds/cardinalis-cardinalis.png",
