@@ -49,6 +49,13 @@
         "source": "generated"
       }
     ],
+    "dryobates-pubescens": [
+      {
+        "file": "birds/dryobates-pubescens.png",
+        "sha256": "a44f671612d6afb83bc779d284afff02473d8a4ea7db568ebc1cabbef0b41b6f",
+        "source": "generated"
+      }
+    ],
     "haemorhous-mexicanus": [
       {
         "file": "birds/haemorhous-mexicanus.png",
