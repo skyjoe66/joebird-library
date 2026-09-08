@@ -1,5 +1,12 @@
 {
   "birds": {
+    "agelaius-phoeniceus": [
+      {
+        "file": "birds/agelaius-phoeniceus.png",
+        "sha256": "51f72ab33bb25253d67d6ed7b7e3d7d17d56bb8839d8b614e3eb03d00a71be68",
+        "source": "generated"
+      }
+    ],
     "ardea-alba": [
       {
         "file": "birds/ardea-alba.png",
