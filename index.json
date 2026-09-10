@@ -77,6 +77,13 @@
         "source": "generated"
       }
     ],
+    "megaceryle-alcyon": [
+      {
+        "file": "birds/megaceryle-alcyon.png",
+        "sha256": "6a6d7ead05fcdd6a8c989c46b6acdc4abfb438e0ae5fd15d1b512b7d3168bdf0",
+        "source": "generated"
+      }
+    ],
     "melanerpes-carolinus": [
       {
         "file": "birds/melanerpes-carolinus.png",
