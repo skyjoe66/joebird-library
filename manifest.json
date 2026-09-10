@@ -25,6 +25,11 @@
   "birds/cyanocitta-cristata.png": {
     "source": "generated"
   },
+  "birds/dendrocygna-autumnalis.png": {
+    "from": "a JoeBird frame",
+    "model": "gpt-image-2",
+    "source": "generated"
+  },
   "birds/dryocopus-pileatus.png": {
     "source": "generated"
   },

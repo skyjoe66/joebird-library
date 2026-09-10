@@ -56,6 +56,13 @@
         "source": "generated"
       }
     ],
+    "dendrocygna-autumnalis": [
+      {
+        "file": "birds/dendrocygna-autumnalis.png",
+        "sha256": "6f0418a5eb328cdde8b87ee9e216eecede0797556572198cb7e0f03123b06d46",
+        "source": "generated"
+      }
+    ],
     "dryocopus-pileatus": [
       {
         "file": "birds/dryocopus-pileatus.png",
