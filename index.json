@@ -119,6 +119,13 @@
         "source": "generated"
       }
     ],
+    "vireo-griseus": [
+      {
+        "file": "birds/vireo-griseus.png",
+        "sha256": "0c26d56db7b1b8fbda3f6031cd84c298807e1d528510a07e986ebdad41abaa3a",
+        "source": "generated"
+      }
+    ],
     "zenaida-macroura": [
       {
         "file": "birds/zenaida-macroura-2.png",

@@ -54,6 +54,11 @@
   "birds/sialia-sialis.png": {
     "source": "generated"
   },
+  "birds/vireo-griseus.png": {
+    "from": "a JoeBird frame",
+    "model": "gpt-image-2",
+    "source": "generated"
+  },
   "birds/zenaida-macroura-2.png": {
     "source": "generated"
   },
